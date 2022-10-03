@@ -21,5 +21,5 @@ Estudante em transição de carreira á 9 meses.
 
 # Contato 
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/sassa-dmf/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/sassa-dmf/)
 
